@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>instagram</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ 
+	<div class="instagram-wrapper">
+		<div class="instagram-phone">
+			<img src="phone.png" alt="apple phone">
+		</div>
+		
+		<div class="instagram-continue">
+			<div class="group">
+					<div class="instagram-logo">
+				<img src="instagramlogo.png"  class="instagram-logo" alt="instagram logo">
+					</div>
+					<div class="profile-photo">
+						<img src="charles.jpg" alt="foto de perfil">
+					</div>
+					<a href="0" class="instagram-login">Continue como charlesamorim</a>
+					<a href="0" class="instagram-logout">Remover conta</a>
+			</div>
+			
+			<div class="group">
+				<p class="not-account">Não é Charlesamorim?</p>
+				<p class="notaccount">
+					<span class="link-blue">Alternar Contas</span>
+					ou
+					<span class="link-blue">Inscreva-se</span>
+				</p>
+			
+				
+			</div>
+		
+			<div class="get-the-app">
+				<p class="get-app">Baixe o aplicativo</p>
+				<div class="download">
+					<a href="0" class="app-download"></a>
+					<a href="0" class="app-download"></a>	
+				</div>
+			</div>
+		</div>	
+	</div>
+   
+</body>
+</html>
